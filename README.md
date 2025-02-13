@@ -56,7 +56,7 @@ venv_folder/bin/python3 bot.py <twitch_channel> <cookies_file>
 
 ### Example:
 ```
-venv_folder/bin/python3 bot.py user_cookies.json
+venv_folder/bin/python3 bot.py pewdiepie user_cookies.json
 ```
 
 ## Notes
