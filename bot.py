@@ -1,4 +1,4 @@
-## This bot is meant to collect watch hours on a desginated Twitch Channel.
+## This bot is meant to collect watch hours not to collect rewards.
 ## The bot will inject the session cookies from a set user and refresh the stream every 15 minutes.
 ## The selenium packager is compatible with multiple browser.
 ## This script is provided for education purpose only and all liabilities are waved. 
