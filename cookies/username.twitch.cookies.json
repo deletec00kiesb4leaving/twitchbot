@@ -1,0 +1,146 @@
+[
+  {
+    "name": "unique_id",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "unique_id_durable",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "twitch.lohp.countryCode",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "referrer_url",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "experiment_overrides",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "spare_key",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "persistent",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "sudo",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "bits_sudo",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "login",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "name",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "last_login",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "api_token",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "twilight-user",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "auth-token",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "server_session_id",
+    "value": "example-cookie-value",
+    "domain": ".twitch.tv",
+    "path": "/",
+    "expires": "example-expiration-date",
+    "httpOnly": false,
+    "secure": true
+  }
+]
