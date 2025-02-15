@@ -84,6 +84,7 @@ with webdriver.Firefox(options=options) as driver:
             driver.add_cookie(cookie)
         except:
             print("Failed to Inject:", cookie["name"])
+            sys.exit(1)
 
     if is_live():
         # Loads page with session
